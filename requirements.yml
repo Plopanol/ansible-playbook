@@ -1,0 +1,3 @@
+- name: webserver-userdir
+  src: git+https://gitlab.gigelf.eu/formation/ansible-role-webserver-userdir.git
+  version: 1.0.0

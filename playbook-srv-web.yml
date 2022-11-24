@@ -1,0 +1,6 @@
+- name: Installation serveur web sur linux
+  hosts: linux
+  become: yes
+  
+  roles:
+    - webserver-userdir
